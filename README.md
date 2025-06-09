@@ -44,4 +44,12 @@ The user interface is designed with user convenience in mind — **simple, clear
 ---
 
 ## 📁 Project Structure
-
+/EMICompare
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ └── images/
+├── components/
+│ └── calculator.js
+├── README.md
