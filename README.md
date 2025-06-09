@@ -49,7 +49,8 @@ The user interface is designed with user convenience in mind — **simple, clear
 ├── style.css
 ├── script.js
 ├── assets/
-│ └── images/
+│   └── images/
 ├── components/
-│ └── calculator.js
+│   └── calculator.js
 ├── README.md
+
